@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am a **confused** person, *figuring out what to do with life* in majority, saved by my partner at right time and sailing currently
