@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Spotted Owlet Family](https://github.com/nanoharsha/markdown-portfolio/Owl_image.jpeg)
